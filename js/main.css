@@ -1,0 +1,20 @@
+.header_class{
+    background-color: rgb(13, 233, 86);
+    color: rgb(224, 247, 231);
+    font: status-bar;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header_content{
+    margin: 10px;
+}
+.img_class{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: rgb(3, 99, 27) 2px 5px 5px; 
+    align-self: center;
+    
+}
